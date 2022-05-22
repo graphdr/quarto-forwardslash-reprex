@@ -1,7 +1,7 @@
 {
-  "hash": "13a80b1a00c219ca3896f32709d41ca9",
+  "hash": "a73008a609fe19999832d2f0886dac1e",
   "result": {
-    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2022-05-22\"\ncategories: [R]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndata(Nile)\nplot(Nile)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2022-05-22\"\ncategories: [R]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndata(Nile)\nplot(Nile)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/Nile-data-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],
