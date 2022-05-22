@@ -1,8 +1,13 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "quarto-forwardlash-reprex"
+  site-url: https://graphdr.github.io/quarto-forwardslash-reprex
+  description: |
+    A reprex for the forwardslash in image links 
+    in the XML file.
   navbar:
     right:
       - about.qmd

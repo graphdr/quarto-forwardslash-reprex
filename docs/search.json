@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-forwardlash-reprex",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 22, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "data(Nile)\nplot(Nile)\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{malloc2022,\n  author = {Harlow Malloc},\n  title = {Post {With} {Code}},\n  date = {2022-05-22},\n  url = {https://graphdr.github.io/quarto-forwardslash-reprex/posts\\post-with-code},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nHarlow Malloc. 2022. “Post With Code.” May 22, 2022. https://graphdr.github.io/quarto-forwardslash-reprex/posts\\post-with-code."
+  }
+]
